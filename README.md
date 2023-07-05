@@ -17,5 +17,7 @@ Other environment variables:
 ## Example
 
 ```bash
-OPENAI_API_KEY=sk-... WHAT="HTTP server server pages in dark mode" npm start
+OPENAI_API_KEY=sk-... WHAT="HTTP server that serves pages in dark mode" npm start
 ```
+
+<img width="893" alt="image" src="https://github.com/atesgoral/ura/assets/50832/985c2f67-cecb-4e49-a295-67adfbaa1737">
