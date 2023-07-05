@@ -1,6 +1,6 @@
 # URA
 
-Tell GPT, "ur a ... server" and let it act like one.
+Tell GPT, "ur a ..." and let it act like one.
 
 Works really well with HTTP. I haven't pushed hard on other protocols.
 
