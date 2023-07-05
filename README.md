@@ -2,10 +2,12 @@
 
 Tell GPT, "ur a ... server" and let it act like one.
 
+Works really well with HTTP. I haven't pushed hard on other protocols.
+
 ## Usage
 
 ```bash
-npm instal
+npm install
 OPENAI_API_KEY=<your own key> npm start
 ```
 
